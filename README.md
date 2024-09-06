@@ -22,10 +22,11 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Lucas Kazem (lucaskazem)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Unfortunately, I wasn't able to attend class because I was sick so I did not have a partner to complete this with in person. I sent my solution to Shuban Sridhar for him to review. (shubansridhar)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** The code works but the looping part is a bit more complicated than it needs to be. Avoid changing the input array directly and focus on a cleaner way to check neighboring spots while looping through.
+
