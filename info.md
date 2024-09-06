@@ -1,6 +1,7 @@
 Leetcode problem: https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75
 
 PID: lucaskazem
+
 Partner PID: shubansridhar
 
 Unfortunately, I wasn't able to attend class because I was sick so I did not have a partner to complete this with in person.
